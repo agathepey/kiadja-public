@@ -36,12 +36,19 @@ It’s the perfect app for your next evening with friends.
 ## 📸 Screenshots
 _(Screens are in French version of the app)_
 
-<img src="./assets/Welcome.png" width="220"/> 
-<img src="./assets/Start.png" width="220"/> 
-<img src="./assets/Names.png" width="220"/>  
+<p align="center">
+  <img src="./assets/Welcome.png" width="220"/>
+  <img src="./assets/Start.png" width="220"/>
+</p>
 
-<img src="./assets/Choice.png" width="220"/> 
-<img src="./assets/Playing.png" width="220"/>  
+<p align="center">
+  <img src="./assets/Names.png" width="220"/>
+  <img src="./assets/Choice.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="./assets/Playing.png" width="220"/>
+</p>
 
 ---
 
