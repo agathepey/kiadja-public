@@ -42,13 +42,10 @@ _(Screens are in French version of the app)_
 </p>
 
 <p align="center">
-  <img src="./assets/Names.png" width="220"/>
+  <img src="./assets/Playing.png" width="220"/>
   <img src="./assets/Choice.png" width="220"/>
 </p>
 
-<p align="center">
-  <img src="./assets/Playing.png" width="220"/>
-</p>
 
 ---
 
